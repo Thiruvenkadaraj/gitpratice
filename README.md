@@ -1,0 +1,2 @@
+# gitpratice
+git sample check
